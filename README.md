@@ -1,5 +1,6 @@
-# codecommando.github.io
+# Gajender Tyagi 
 
-## This wil be my Portfolio 
+## Software Engineer 
 
- I will build it slowly but steadily. 
+I'am a software engineer working with IBM i power systems . I have been doing development using JavaScript and RPGLE.
+
