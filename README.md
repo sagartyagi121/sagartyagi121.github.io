@@ -1,4 +1,4 @@
-# [Gajender Tyagi](https://sagartyagi121.github.io/CodeCommando/) 
+# [Gajender Tyagi](https://sagartyagi121.github.io) 
 
 ## Software Engineer 
 
