@@ -2,7 +2,9 @@
 
 ## Software Engineer 
 
-I have been working with IBM i power systems for sevral years and I have been doing development using JavaScript and RPGLE.
+I have been working with IBM i power systems for sevral years and I have been doing development using JavaScript and RPGLE (mostly).
+
+You can check out my github reposirtories to check my work. 
 
 
 
